@@ -1,0 +1,11 @@
+asgiref==3.7.2
+Django==4.2.3
+django-phonenumber-field==7.1.0
+phonenumbers==8.13.17
+Levenshtein==0.21.1
+Pillow==10.0.0
+python-barcode==0.15.1
+python-Levenshtein==0.21.1
+rapidfuzz==3.1.2
+sqlparse==0.4.4
+tzdata==2023.3

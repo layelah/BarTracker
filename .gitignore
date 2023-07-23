@@ -1,0 +1,37 @@
+# Fichiers compilés / optimisés / DLL
+__pycache__/
+*.pyc
+*$py.class
+
+# Distribution / emballage
+.Python
+build/
+dist/
+*.egg-info/
+MANIFEST
+
+# Journaux d'installation
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Traductions
+*.mo
+*.pot
+
+# Éléments propres à Django :
+*.log
+db.sqlite3
+db.sqlite3-journal
+
+# Environnements
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+virtualenv/
+
+#  vous pouvez décommenter ce qui suit pour ignorer tout le dossier idea.
+#.idea/
